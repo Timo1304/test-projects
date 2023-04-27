@@ -3,19 +3,32 @@ body{
 }
 
 #width{
-     width: 250px; height: 450px; background-color:hsl(0, 0%, 100%) ; margin: 10% auto; text-align: center; border-radius: 5%; padding:1em;
+     width: 250px; 
+     height: 450px; 
+     background-color:hsl(0, 0%, 100%) ; 
+     margin: 10% auto; text-align: center; 
+     border-radius: 5%; 
+     padding:1em;
 }
 
 #rounded-corners {
-   width:250px; height: 250px; border-radius: 5%; margin:auto; 
+   width:250px; 
+   height: 250px; 
+   border-radius: 5%; 
+   margin:auto; 
 }
 
 #set {
-  color: hsl(218, 44%, 22%); font-size: 15px; font-family: Outfit; font-weight: 700;
+  color: hsl(218, 44%, 22%); 
+  font-size: 15px; font-family: Outfit; 
+  font-weight: 700;
 }
 
 #seet {
-  color: hsl(220, 15%, 55%);  font-size: 15px; font-family: Outfit; font-weight: 400; 
+  color: hsl(220, 15%, 55%);  
+  font-size: 15px; 
+  font-family: Outfit; 
+  font-weight: 400; 
 }
 
 p{
