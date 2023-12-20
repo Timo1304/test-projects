@@ -52,7 +52,7 @@ I want to learn more html elements,css and javascript.
 
 ## Author
 
-- Website - [Timothy Finomo](https://www.your-site.com)
+- Website - [Timothy Finomo](https://www.linkedin.com/in/finomo-timothy-522bb1241)
 - Frontend Mentor - [@Lynx1304](https://www.frontendmentor.io/profile/Lynx1304)
 - Twitter - [@Lynx1304](https://www.twitter.com/Lynx1304)
 
